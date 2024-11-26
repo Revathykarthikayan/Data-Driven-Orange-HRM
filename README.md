@@ -16,8 +16,11 @@ Employee Management:
   
 Test Objective:
 
-    The Login functionality utilizes a Data-Driven Test Framework for flexible execution with various input data sets.
-Employee Management employs the Page Object Model design pattern for better code organization and maintainability.
+    The Login functionality utilizes a Data-Driven Test Framework
+    for flexible execution with various input data sets.
+    
+    Employee Management employs the Page Object Model design pattern
+    for better code organization and maintainability.
 
 The framework captures screenshots of failed test cases, such as the negative login test, and includes them in the generated HTML report for your reference.
 
