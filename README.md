@@ -1,4 +1,4 @@
-BASE URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+** BASE URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
 
 Introduction:
   This project automates testing of the OrangeHRM web application. It focuses on five test cases:
